@@ -1,6 +1,7 @@
 <h1>Hey, I'm Hugo! <br/><a href="https://github.com/HugoJrH/">Programmer Accociate </a>, <a href="">Cybersecurity Associate</a>,
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>📄 certifications: </h2>
 <h2> 🤳 Connect with me:</h2>
 
 
