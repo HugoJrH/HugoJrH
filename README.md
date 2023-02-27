@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hugo! <br/><a href="https://github.com/HugoJrH">Programmer Associate</a>,<a
- href="www.linkedin.com/in/hugojrh">Cybersecurity</a>,
+ href="www.linkedin.com/in/hugojrh">Cybersecurity</a>,Pentesting
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
   
