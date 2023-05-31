@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/HugoJrH/Sentinel-Lab)
-  - [Azure Active Directory Lab](https://github.com/HugoJrH/ActiveDirectory-Azure)
+  - [Azure Active Directory Lab](https://github.com/HugoJrH/ActiveDirectory-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
